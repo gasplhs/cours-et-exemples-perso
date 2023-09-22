@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(148, 148, 148, 0.723);
+}
+
+h1 {
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    margin-left: 20%;
+    margin-top: auto;
+}
